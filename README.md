@@ -8,7 +8,7 @@ JavaScript material-design calendar.
 ### Usage
 - add calendar.css
 - add calendar.js
-- put javascript code into HTML
+- put javascript code into HTML as below:
 ```javascript
 $(document).ready(function(){
   ssCalendar('.identifier');

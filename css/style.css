@@ -1,0 +1,52 @@
+@import url(http://necolas.github.io/normalize.css/latest/normalize.css);
+@import url(http://fonts.googleapis.com/css?family=Roboto:200,400,500,300,700,400italic&subset=latin,latin-ext);
+
+a {
+  color: #000000;
+  text-decoration: none;
+}
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #000000;
+  background: #edecec;
+}
+
+.box{
+  width: 400px;
+  background: #ffffff;
+  padding: 20px;
+  margin: 80px auto;
+  text-align: center;
+}
+h1{
+  margin: 0 0 20px 0;
+  padding-bottom: 20px;
+  font-size: 1.4em;
+  border-bottom: 1px solid #cccccc;
+}
+
+label{
+  margin-right: 10px;
+}
+input{
+  width: 140px;
+  border: 1px solid #cccccc;
+}
+
+.submit{
+  width: 100%;
+  margin-top: 20px;
+}
+button{
+  width: 100px;
+  line-height: 30px;
+  height: 30px;
+  border: 1px solid #3acc5d;
+  background: #3acc5d;
+  color: #ffffff;
+}

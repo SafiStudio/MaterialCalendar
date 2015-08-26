@@ -3,6 +3,7 @@ JavaScript material-design calendar.
 
 ### Requirements
 - jQuery v1.11.3+
+- Font Awesome library
 - Modern web browser :)
 
 ### Usage

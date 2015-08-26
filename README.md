@@ -1,4 +1,4 @@
-# MeterialCalendar
+# MaterialCalendar
 JavaScript material-design calendar.
 
 ### Requirements

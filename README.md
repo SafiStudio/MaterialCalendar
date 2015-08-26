@@ -7,6 +7,7 @@ JavaScript material-design calendar.
 - Modern web browser :)
 
 ### Usage
+- add font-awesome.min.css
 - add calendar.css
 - add calendar.js
 - put javascript code into HTML as below:

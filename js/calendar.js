@@ -61,7 +61,7 @@ var ssCalendar = function(identifier){
                 gridHTML += '<span class="active-day'+active+'">'+(i-fday+1)+'</span>';
             }
             else{
-                gridHTML += '<span class="empty-day"></span>';
+                gridHTML += '<span class="empty-day">&nbsp;</span>';
             }
         }
         return gridHTML;
